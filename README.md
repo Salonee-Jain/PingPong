@@ -5,8 +5,8 @@
 
 `pip install kivy`
 
-<img src="Pingpong.PNG">
 
+# Previw of the App
 ![PingPong](PingPong.gif)
 
 
